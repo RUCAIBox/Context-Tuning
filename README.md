@@ -23,10 +23,18 @@ Other hyperparameters can be changed in the [yaml](https://github.com/RUCAIBox/T
 
 ## Reference
 ```bibtex
-@article{tang2022context,
-  title={Context-tuning: Learning contextualized prompts for natural language generation},
-  author={Tang, Tianyi and Li, Junyi and Zhao, Wayne Xin},
-  journal={arXiv preprint arXiv:2201.08670},
-  year={2022}
+@inproceedings{tang-etal-2022-context,
+    title = "Context-Tuning: Learning Contextualized Prompts for Natural Language Generation",
+    author = "Tang, Tianyi  and
+      Li, Junyi  and
+      Zhao, Wayne Xin  and
+      Wen, Ji-Rong",
+    booktitle = "Proceedings of the 29th International Conference on Computational Linguistics",
+    month = oct,
+    year = "2022",
+    address = "Gyeongju, Republic of Korea",
+    publisher = "International Committee on Computational Linguistics",
+    url = "https://aclanthology.org/2022.coling-1.552",
+    pages = "6340--6354",
 }
 ```
